@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm a Secondary School Student and a Developer. 
+I'm a secondary school student and a developer. 
 
 You can call me JigokuZ or Kuz_1337
 
