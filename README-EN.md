@@ -1,12 +1,13 @@
 [简体中文](README.md) | [English](README-EN.md)
 
-# Hi there 👋
+# Hi there [JigokuZ](https://blog.jigokuz.icu)👋
 
 I'm a secondary school student and a developer. 
 
 You can call me JigokuZ or Kuz_1337
 
 I have used it before C++,Java,PHP,HTML,CSS,JavaScript,Docker,Go and Other programme languages.
+![Stats](https://github-readme-stats.vercel.app/api?username=JigokuZ&show_icons=true&theme=ocean_dark)
 
 ## My contact
 <ul>
