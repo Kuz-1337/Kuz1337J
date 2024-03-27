@@ -8,7 +8,7 @@
  
 我以前用过 C++、Java、PHP、HTML、CSS、JavaScript、Docker、Go等编程语言
 
-[stats](https://github-readme-stats.vercel.app/api?username=JigokuZ&show_icons=true&theme=ocean_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=JigokuZ&show_icons=true&theme=ocean_dark)
 
 ## 联系方式
 <ul>
