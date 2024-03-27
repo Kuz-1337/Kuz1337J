@@ -4,9 +4,9 @@
 
 我是一名中学生，也是一名开发者。
 
-你可以叫我JigokuZ或Kuz_1337
+你可以叫我 JigokuZ 或 Kuz_1337
  
-我以前用过C++、Java、PHP、HTML、CSS、JavaScript、Docker、Go
+我以前用过 C++、Java、PHP、HTML、CSS、JavaScript、Docker、Go等编程语言
 
 ## 联系方式
 <ul>
