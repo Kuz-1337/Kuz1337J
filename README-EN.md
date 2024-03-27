@@ -6,7 +6,7 @@ I'm a secondary school student and a developer.
 
 You can call me JigokuZ or Kuz_1337
 
-I have used it before C++,Java,PHP,HTML,CSS,JavaScript,Docker,Go
+I have used it before C++,Java,PHP,HTML,CSS,JavaScript,Docker,Go and Other develop language.
 
 ## My contact
 <ul>
