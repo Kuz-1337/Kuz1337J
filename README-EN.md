@@ -9,7 +9,8 @@ You can call me JigokuZ or Kuz_1337
 I have used it before C++,Java,PHP,HTML,CSS,JavaScript,Docker,Go
 
 ## My contact
-
-QQ：3301787287
-Email：3301787287@qq.com
-Discord：https://discord.gg/CMUc7Aqs
+<ul>
+    <li>QQ：3301787287</li>
+    <li>Email：3301787287@qq.com</li>
+    <li>Discord：https://discord.gg/CMUc7Aqs</li>
+</ul>
