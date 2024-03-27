@@ -1,6 +1,6 @@
 [简体中文](README.md) | [English](README-EN.md)
 
-# 你好 👋
+# Hi, 这里是JigokuZ👋
 
 我是一名中学生，也是一名开发者。
 
