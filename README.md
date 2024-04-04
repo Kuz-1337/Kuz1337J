@@ -6,7 +6,7 @@
 
 你可以叫我 JigokuZ 或 Kuz_1337
  
-我以前使用过 C++、Java、PHP、HTML、CSS、JavaScript、Docker、Go等编程语言
+我以前使用过 C++、Java、PHP、HTML、CSS、JavaScript、Docker、Go等开发语言
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=JigokuZ&show_icons=true&theme=ocean_dark)
 
