@@ -1,10 +1,10 @@
 [简体中文](README.md) | [English](README-EN.md)
 
-# Hi, 这里是JigokuZ👋
+# Hi, 这里是Kuz#1337👋
 
 我是一名中学生，也是一名开发者。
 
-你可以叫我 JigokuZ 或 Kuz_1337
+你可以叫我 Kuz#1337 或 Kuz_1337
  
 我以前使用过 C++、Java、PHP、HTML、CSS、JavaScript、Docker、Go等开发语言
 
