@@ -8,7 +8,7 @@ You can call me Kuz#1337 or Kuz_1337
 
 I have used it before C++,Java,PHP,HTML,CSS,JavaScript,Docker,Go and Other programme languages.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JigokuZ&show_icons=true&theme=ocean_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Kuz1337J&show_icons=true&theme=ocean_dark)
 
 ## My contact
 <ul>
