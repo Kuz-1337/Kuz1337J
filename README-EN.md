@@ -1,6 +1,6 @@
 [简体中文](README.md) | [English](README-EN.md)
 
-# Hi there Kuz#1237👋
+# Hi there Kuz#1337👋
 
 I'm a secondary school student and a developer. 
 
