@@ -8,7 +8,7 @@
  
 我以前使用过 C++、Java、PHP、HTML、CSS、JavaScript、Docker、Go等开发语言
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Kuz1337J&show_icons=true&theme=ocean_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Kuz-1337&show_icons=true&theme=ocean_dark)
 
 ## 联系方式
 <ul>
